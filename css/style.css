@@ -3,7 +3,7 @@
     /* Fonts  */
     --fsg: 150px;
     --fsm: 85px;
-    --fss: 30px;
+    --fss: 28px;
     --fses: 18px;
 
     /* Light theme  */
@@ -27,7 +27,7 @@
 }
 @media only screen and (max-width: 68.75em) {
     :root {
-        --fsg: 100px;
+        --fsg: 90px;
         --fsm: 65px;
         --fss: 20px;
     }
