@@ -23,3 +23,6 @@ if (Hr >= 23 && Hr < 5) {
 } else if (Hr >= 17 && Hr < 23) {
     document.getElementById('greetings').innerText = gree4 + name;
 }
+  else{
+   document.getElementById('greetings').innerText = "What the FUCK are you doing awake?";  
+  }
