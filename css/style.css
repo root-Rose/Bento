@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
 :root {
     /* Fonts  */
-    --fsg: 150px;
+    --fsg: 120px;
     --fsm: 85px;
     --fss: 28px;
     --fses: 18px;
@@ -36,7 +36,7 @@
 /* Dark theme  */
 .darktheme {
     --accent: #186efd60;
-    --bg: #2F3437;
+    --bg: #FFFFFF;
     --sbg: #2c2d31;
     --fg: #FFFFFF;
     --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
