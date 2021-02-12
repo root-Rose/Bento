@@ -36,7 +36,7 @@
 /* Dark theme  */
 .darktheme {
     --accent: #186efd60;
-    --bg: #FFFFFF;
+    --bg: #000000;
     --sbg: #2c2d31;
     --fg: #FFFFFF;
     --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
